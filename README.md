@@ -1,6 +1,8 @@
 # 20200218-Utility-Analytics
 Presenter content from February 2020 Springfield MO Data Science After Dark meetup
 
+https://www.youtube.com/watch?v=n6ohyC-ng0U
+
 ## Topic 1: Introduction to Quirkiness of Utility Analytics
 
 A few fun facts: (1) Wholesale energy price can spike up from median price of $30/MWh to $1000/MWh in a couple of hours or drop down to negative prices. (2) Market design can change behavior of market participants and thus the market itself. (3) “Data scientists” in utilities often do everything from data mining, model prototyping to production model engineering and support.
